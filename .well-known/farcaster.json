@@ -1,0 +1,15 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "miniapp": {
+    "name": "Base Meme Radar",
+    "description": "Shows the most traded Base meme coin in the last 24 hours",
+    "icon": "https://basememeradar.lovable.app/favicon.ico",
+    "homeUrl": "https://basememeradar.lovable.app",
+    "supportedChains": ["base"],
+    "version": "1.0.0"
+  }
+}
